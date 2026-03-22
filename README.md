@@ -11,7 +11,7 @@ This project contains the geospatial mapping of MSMEs in Bontoborusu Village usi
 - QGIS project file
 - MSME spatial data
 - Map outputs in PDF
-- Google Earth KML/KMZ files
+- Google Earth KML file
 
 ## Output
 - MSME distribution maps by hamlet
