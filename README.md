@@ -1,2 +1,17 @@
-# bontoborusu-umkm-geospatial
-Geospatial mapping of MSMEs in Bontoborusu Village, Selayar Islands
+# Bontoborusu UMKM Geospatial Mapping
+
+This project contains the geospatial mapping of MSMEs in Bontoborusu Village using QGIS and Google Earth.
+
+## Tools
+- QGIS
+- Google Earth
+
+## Contents
+- QGIS project file
+- MSME spatial data
+- Map outputs in PDF
+- Google Earth KML/KMZ files
+
+## Output
+- MSME distribution maps by hamlet
+- Detailed MSME location information in Google Earth
