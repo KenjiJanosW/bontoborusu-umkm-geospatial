@@ -1,0 +1,2267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1ROBin4KvkVXkRnGa16psf3HiTHbM1Yos">
+	<name>UMKM Go Digital</name>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="int" name="0F5DFC822139A5A27390">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1CEA87C770391DE45101">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="08F5292408391DDEB6BE">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="11B0EAE9E9391DD8D105">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1840F6D046391DD55175">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0CA1B93590391DD42B5A">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1B10B63970391DBC43CB">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F3507BBD4391DBB84DE">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0552DF495C391DAF952F">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0140645EBD391DA93823">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1849CA7610391DA5DAFF">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="10121E8DF1391DA13B55">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0BAE0224DD391D9F4504">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="01E5898B21391D8FE231">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F7BEE9A31391D7D80DC">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="02DF87ED29391D6E3FAC">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="05CA53C413391D672352">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0B58DDB44C391D5FB044">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="011F8B9DA6391D5B419B">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0EF622DDAD391D5869B6">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0C485E2BFA39138EE568">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0C28E2F60639138A56E4">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0EBB522AF33913873C5B">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F66FE98053913859C7B">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F2C7E6A1A3913849361">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="08FF1250343913827E92">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0AA47161EE39137DC9EF">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0D647622EF39137BCB07">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="053995FBFB3913776C05">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="06CE4CA7533913706D05">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0502793B80391364E4CE">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0B8B1EF17639136058EF">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0E5254EA8339135E4168">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0FEFDF3E0139135CDF8D">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="09133B6A6C3913563CEF">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="03641AAEEE39135366F2">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0C4871A35B391352F73A">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0DE902801C391351E58A">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="003DBD244F39134F8794">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="03E3BF37DE39134B886D">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="06BBAF92C239134860BD">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="06F0F1821A391346FF16">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="098999CA8A3913468E00">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="06B1712B0A3913445B70">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0FAC90D47939133F393B">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0745B7F6FD39133D937E">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0478E1B06F39132A8DE7">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0B11A84699391316EDA5">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="01CC437985391310BC81">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1C1A5C02483913061A56">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F7DA3E8D6391302D835">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F28E77E0B3912F763FE">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0DB82533F73912EE6065">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="066D601E1B3912D9A8EC">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0DCC7F7B90390E6E6B31">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0DD56F3EB2390E6AE91E">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F3A06FC95390E6499C7">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="055AC6FEB4390E589302">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0A38805BAE390E561479">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0581B16884390E35A8F3">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="01FACAF6C5390E32728C">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="000F3016C1390E2FABC8">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="04B6E89ABF390E2D839F">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0EFE2FC6E6390E2955CD">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="050ED09434390E24B782">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1F34836811390E1544AE">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="006A69A472390E14AB92">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="029C56409F390E141308">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="02B608796E390E12E4CF">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="06E3FE78E6390E11E4FA">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1F704B4618390E10F296">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0D02D14A8D390E0E6664">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0182A8368C390E0A4759">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0D75B3DC50390E0A0ED1">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="099C411C31390E056E1C">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0C671E6DCE390E026DB6">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0DE8B7DBD8390E0137A8">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="037C9A87F1390DFD3B2A">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="006C3B2169390DFAE454">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="089374C71D390DF95CF9">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="07046FCAC8390DF86854">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0478CB858B390DF477F1">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="05E87875BD390DE6BF91">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="11579F504F390D9A8FE2">
+			<displayName>Akurasi (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="09CF61ABF9390D98A1E7">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_1472C88AAD39BC0F41D9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_20B11C097D39BC0F41D8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_09CD3F991739BC0F41D9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1472C88AAD39BC0F41D9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_09CD3F991739BC0F41D9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19DC1BD17F39BC0F41D8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FCD9849F239BC0F41D8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0087FA25FA39BC0F41D7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0FCD9849F239BC0F41D8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_19DC1BD17F39BC0F41D8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B6C05F7D9390DE6BF8F">
+		<name>Warung Pak Ude</name>
+		<LookAt>
+			<longitude>120.418645244048</longitude>
+			<latitude>-6.164004490162583</latitude>
+			<altitude>4.373540549385404</altitude>
+			<heading>73.1450355993249</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>169.0291330589389</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="05E87875BD390DE6BF91">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4186458679404,-6.164006537616902,4.399220367515118</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0198A3DD65390DF477E5">
+		<name>Warung Aswandi Azis</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari, seperti sabun, sampo, beras, telur, dan jajanan<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4244241386064</longitude>
+			<latitude>-6.190514012135226</latitude>
+			<altitude>4.204048742156894</altitude>
+			<heading>163.1986374126641</heading>
+			<tilt>3.900396402920219</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>77.18514325592878</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0478CB858B390DF477F1">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdlZDanI1Q0x3S3RQSlU0TG5HTGxnU2Y2YzZlVHlRWUhxUlRwU0JTcWhCUVlBeWhGeFhPMWpLUmI5a1YwQzZjZmJBczNpeHpRd1dKVXZaQVpzeVlWQWVFS2wvN3FmWnVUZW5UR0o1cCs1bFg2TFc2OEtsNXA0ZkhwMzljQW1kTjRpTEU2VTQ2bmZpZzhRTWE2TkwyNjAzN3NUU2oxOHdNQTYyM1h5NkVaZmd0azNCZ0MxdVNKZ0NpSEtOdlM4bXNzSHJnaUNEbzJMWXlDZEV0RitqK0JNTmoyQURzUld0czVKQ01xcjBTMTJzSDdCS0ZKNmY5UFU0cldzNU1BSVFMR3c9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKurMIa96fDO3n2LT6nDws8rGPoe2myDKArv2_bbJBjW3tSBaBd33ZdfjSzNSG7lD2wCOlMpu9AaIMlBSar7r60kj7CXi5KKahqEKrlvCRcY7hsucYuSo55gUAHSBrzCgL-lXGyGMhZXv5DHiJTWfwbPtBGS0WDg6fKSIiHPbqAMVftFpmDbW23fsHH21c-CPrXA0RDcYhrDK8M6g1GsZ5O4BU6zETS-VO57hrLuf2R2ouImIey5LZU7kuoO6Zdxf0AitRExwxrcGSfY?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdXB4Z3MyY2hKR0FJbnBjaXNZdzU0YVJtRVhXbHlzdDJwMWVUTVpmNXJuRE1YbXNaWWRxRVg1WVgycEo3Qmh4Z2hQZ2h5U0FpN2Q5RHBuRzdpQ1FmeFFzenVKWXRjV1J4aG9kQ05LZXYwS2RGUlhTaW91cVc0Sm03d0t3Q2VJby9MQXZZM3BBZEZOa0FmRGU5QmIzdnRtM0MydXB3cFJzMkxUNlRtQlA5SGl5WkR0ckV1YnBaQkNIK080QWE1RUlSeWJYVldwTEJ1WDJneXlGUEpzRmo5a0tBVEtnVzR5UHpBdE54eDRBRGpsY2hEQmJabXJTa0FNMkw1cVhoWFhFTEE9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKsDxW_OsgsKHmQ2VQOgR8URaowxwLn3Jfaq9k4tHWRrO7YRc4WPvvRqdz53V6FbBAmqjLJ8gSaHeQsNloYppbUv-LBnRNGG9MLOgUNm_-75W0jGaLGcBK3kHe4zAZwvgxQOi9OGufVWdS4jQzUowNwmfyrQ6hyJZ7oBFO6xYfCG2Q2FCP1jAL99JH-zlUQTbkmgqRdnn-kRI9pk7rhcgpUFPk7WAO1ql6hYb_RpIpZrzwiTrKQjiXPOA6uim2o6J6fJBPEsSKUqNVx9?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLc0RHQVFTRWVteUZSc1d1Vk9COUFkMWVwdGd3UHM2b3dhTFM0ZVhVZTNOTzZHb0xSSHJxWXhQSGxIdTV4WlQ4a1lxZjh5RG1jbHE3bEM5WjBYT0xmN3VLSWRFRDRUU1ltenBRdXRzUGc1VThEZTIxenc4R2xrMldwOFUybGI0UXVKbXpsWlpXY0I4cjQ1alk2SDFBWmUwT3h2Y0FOM0FFRXFtSGFkRStGOTFyaGl3Tk11RnJLUXIxMXhHa0tjdkh6YzM4T3BhQnBHbnNTcElkM3dlNXNRRjRPMDE2SEpwdWgrcXZHajV4Z2pqWnl1ZjN4N2pkNDhBVnY0aHV3Rks0a1U9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuaRIZyNQKH4HsVEc98HseCcLqpm0GagoEv4LMfkyPvJPgPyAuApnBeRAT_vSetHFU8tuTJJEfCHwmi-TAByj7nOSgl9jdQBvoAq56q9jdFdi0ywSEK4yLOpfH7DHO-AWJz8QG2yqt-xesY7tB7Ynvbow0E5LkGyz05pCcHb-ob3kCI7Y-bzaEvFTEk9OwSNQT2U44LinWEQVMJ70ONB_8rl7fhzM-hirVN9zLnDJoEcMbKBYWMlmD9k4RlnygOpsu2C8OCnIRY2vhY?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdE9QWTAxSkduK0wyR2pVQlQ1MVphRVowaVZpMitsVCtxSXpQUHFEVllZVXdKWUhjWndlOEYrSVZxYmlFb3RhYlNBRURuL29zYWxaRG9ndFcvZzR6RzR2aWptRExYRjNoRE5hQ2dPNEl5VmE1TVZxa0R2bXZwUFlURlZoa05hcHljdTBFTUJjMWZ0WUxGek9YSjhwa0lBWnMzOXQwekZXRFkrUCtMR2NpTFN1OXhpaHNFMyt0TUVQWnAwTlZVRW5aTXVMaThqSzZHWjZ0azFnQTMvRW42M0R4K2M5akdWWFVvbWx1ZURsdTV0TUxBcURkSXQ1REJva2h6c2MzQVZXcjQ9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuV0QpiUxwOqR4pMawsVIRbgDpocqiqGNapa_ErmbrC9vpGK0EdetqsQ5G5hzOB7-eM0XaiuL3jwyzh9PWJUcNN91FJFuOW-8_Dr_r8mPYJE1v26frqQo1FMN7ROorvajWbHoO5jMQOdF0Vc8lImcQra-kfUIKHCEcedM2mHsOJdTyheAUIt9EnYLOLAK61OdJyxNIz_rObCQZGsSCnQIkE5CzFkoHGr21c-smOf3ByOGVvEQYQ-psp4hqu2bpwslUgt07-lBnn8fUW?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4244238451848,-6.190538004243359,4.316485093059679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0903AB03D3390DF86851">
+		<name>Warung Ibu Piara</name>
+		<description><![CDATA[<div>Jual kebutuhan rumah,&nbsp;<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4184515177785</longitude>
+			<latitude>-6.164723053795955</latitude>
+			<altitude>7.106290446385673</altitude>
+			<heading>359.7937961165766</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>109.6452147104901</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="07046FCAC8390DF86854">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4184546742862,-6.16459315490703,5.290144574724616</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1E5FECBD390DF95CE7">
+		<name>Warung Kelontong</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari dan kue<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4244588895616</longitude>
+			<latitude>-6.190082792827135</latitude>
+			<altitude>0.1014566662863481</altitude>
+			<heading>-121.9525369558335</heading>
+			<tilt>3.900804107371965</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>375.8841082730214</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="089374C71D390DF95CF9">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdURiMGZnUW5xZmNrODZxa05Sa0JjemVtaXN0MmxGVXpwQ2swZENWTEhHY1Z4dENZc3YyVXBpUU9DQ01zN3hsRnFiVGN4cjRLc3pOenNIcTVReVo3VlB6TEl4cXM0N0M4WjFaNzk0S1RIOWNudStERXNISFBYZGtKbElGVFd2YWdQTFdTRzNSa3RUUHJuQTNnUlg5M052RUsrSlhna1BjaTJHenZPOGkzT0ROSGJVV3MxM1FoQzF6YjRSMFN1eStxYzdJYlhTK1VjMG00MkJ0azlNSS9EOFdhUlRXT3hQbzU2NlpmdmNOUkZDdjB1Wm9yTlBjak05UHU5ejh2SXEwVXM9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuFJBaThn4enGubE0m6hTM3VaqOpF3ppRMmqX8PngegcJBbN2f6rHuZqY52Ej3jvuuEJNTVUISEnq4aYzWOMozvqBmI7XnVZ9yfcL1J2qFPogqI0ZSF-MTBhOIK5YnA1A-FxG0WI1RdEokJc_v6YGnnzOs-nTbIjd0qvW3jI-v9p895Aa2JKqYcnb_8BRnwBs4ibipS3iG2oQHOzmYpT8vnvK6uA0tiaUufpbecnQKo2098CaGfOr_phOmh3l3N7BT74U-htukbHX_T?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdWNoUjJSNzArRTlJWU1kd0xQdlc1d201YXcrbkxxczhKc0JXdGFqc283cTlYTERZcWtQSHhiT0syRDhyQ2x5Rk1yNWtSZExEcTMzVlM5V1hxYkQyaHB1eW9zMWZQUStYTXQvWVFqMTFjdFhCS0xQYUpjMWNjRlhHZ1pnY2VjVEI4NWlKSmsra21EUHFIL1hCZHVtT2kwWGpRejc0SkpuVzBpTUlBZzZJVWt3YnpRYVI2MU13L09OeWlNY2xyTDFGVXNyY2E4L2ZtbXY1ZVlaVU5pRXBYZDVvbDA0aFMvV1hIYTg1SDBnUGVrYkpWdVhIdlNGZ3B3L0hzb2sxRDA2VW89">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuPUwlvgLesGJnOWh8G7ACo3g5Kt9lU2GY3M9r1Yca3anoPrLjzCpQhi3Ly-xetoK26ilGCKGgbAm-IEIjS9vFpS5YjML8ZI6DigWcQghm0hnGF77dfA6cHPUcFC1Z6Z3wSIxN-6TXLY9ZoQ0lmH6NRZY1lEOuYtuAidtRliscOWDGiacDsdRENH-rAR_psuwLBxScKnAyVplxf1HuThTFLpdmkGC_AHt0uzLGtrvHlrTBpqTUezj_w_KIEjovASHm_xMlxsrqjjU_G?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4241384377151,-6.189993298115651,3.525331114414558</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF62C2B2B390DFAE44E">
+		<name>Warung Bu Rohimah</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari, kue, dan donat&nbsp;<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4241431078496</longitude>
+			<latitude>-6.189987611325732</latitude>
+			<altitude>3.447301577318977</altitude>
+			<heading>-121.9525020773734</heading>
+			<tilt>3.900807386454181</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>381.2453883137277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="006C3B2169390DFAE454">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdHo2ZGR3ejFnRnJrSzM4bmlNeWtpTUk1cjhhQzZiVDlhZmpSVnVNUzZPMWw4UFNKU3V2ZlFpNjkxVlJaYjMxM0ZROENPR0F6Y2J0K3h2R3FNRVBDZCswVUE0V1BGZGY3L3VSeU9nWmtGcWtETG5JaElFOXVPbnBYVHlkNHhVaTlqOE54NXZvcjNXRVVUTDNuQjRROWxUQldzNzc5RU5ESGZVcG91RWdTMU5kY1cyRzl4d203Z291Z1NZMmZhNWZLWmVDS2lvTGY0VXVwSjZBTVVSb3JPb0luNXhWckNML2g3dHBrc1p6ajFibDZtdkpuKzVwb1lqcGFhQkVWVjcwdGM9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKupqKuQHiX81OZkC2mJ8ptWnaMsWEih2yL32EUhhfIiJD6lg6EXlmR4SnUD8pw970dPtEIKrh_rjdPro8UUETjnzEebURxaa0_tIaKyHOQKhxQ2WVsnLXG5hhgdrKte6IJVEKR7MPEQGFUaH_dImXRMi6fa9lp5rjMV4axMplluVelXHx4_Tkc_1CnjG7IsYJmg9EOwbLFVPEP9DuLJErLyZwnImp7pwDGHwNbR9ssVbN9CzDoci4S0Jocxko2dga3G5spJr33ytoPP?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLc0RKbjRDMUQwUERScS9nUmFGb0VJWS8rWk02aHZjWEFtcXA2QkErTVU1UlQzRS9ldWRscXNEY09JdERLOFhqZytYUjd2M0NVdldndlVwcWRmY0cwTi9NSXVkaTBHT1FaL0VxSFJJeUsvSDlReldXLzJvQnFSUVpoc3FUSTVjdjNNV0dYbUthR0tUU3hEcHFqMFBReGFkRDZ4aU9GTkcwZU1KQWs3SXRZdXRoUmxpSVpBdXhlei9NTXVaN2xVQmQ4Qk4wSXFRUUJrVUNUSDY2UC80dEs3N0VyM2pjbFlzUmlFeDJPbmhrc0UwNUsrRUtrSm1uMHdlQnowMmRRTFVNU1E9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtEas-FnDyZ-zot9TESyqSKkUaklrj0xcjBXcVeM4qytCyUum4cSlzZiVS--NJLeXu5_C-i3QQ5wkyqDrlBcZnCQ5u50NjGw2TXWGHxVr8_SvpnoTfYyv5kMO0AWTilkXmNYlp3h9qeEtE171jM3QejTIF5uQ3oa67FGkP8BhqYvj0OkenQabjJnf0aFk28ytATtP7mwR5_cP204bhlyXwJxELO_c2rKTvqau-cB-OA-vrobxA6vAJDG1VnvcEYyKdMyrzL3PNBpZ3B?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4240192608755,-6.189838026884606,3.831803913141494</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D01FB3F0B390E0137A2">
+		<name>Warung Ibu Siti</name>
+		<description><![CDATA[<div>Menjual makanan ringan</div>]]></description>
+		<LookAt>
+			<longitude>120.4240641504479</longitude>
+			<latitude>-6.189579850867758</latitude>
+			<altitude>0.08256876326570239</altitude>
+			<heading>287.4241761812753</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>206.803335522709</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0DE8B7DBD8390E0137A8">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdSsrWktiOTE4dnp3YlFwR0xib3pMYy94ZlhzeXJsWFN1ZFRoWjk4Z1g5aERFRk9uSCtuVW0yb0wrWDh2cytFUDZhMTEzOURURnhjZzh2bnF1VlpRc2pIc1dVQ0I4MUptTzVhaUJVRUFhVUJ0MENidmc2b1NFcmNiQ0VpNzVqdW54TlpybmtFN2wzeXFwSTlHb3paNHJnalZuTEdXazNFaHE1eDZic1lPYnNnSkFTVjN6TXgweExOY2piREpvNDl1NEtuWGJpQUNtSSs1Q3dnMTR5dEZ5R1FJVDBxOVJ5YVFERjJyN1plMThNUnhLQ3l3ZFlIOEo0RWk3WFM2T0U2L289_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKvIc2lwEdOi6fd344kAOQSoBdJcxFKAv_ffDLawlm8V3LxGvfj976IHXaEInmPx5oQJslOyZLqLglD-EEzmMyFuanI3boQUskXYKKwoLh03ZcwIOBa6WY_f5O9RjQY1vcFXzGaS4kuscLTWxqiNkHVBB2tBPoxPU7RKNaHLAog7qor1RPJwwHBOYgiOS8grPeyswh--381hFXbgHVb5cqZUt8RzUQ-WAhTl6rMuNbmVRMyqDEuc4Wy9hotZLcZx5CqTO50c10M36T3D?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdmZ2M3c5MkVJYlRCZVhIWlJ2RGtlbytZanJiZVlNbTA1dTVJVkZ3NEdNRm1xK2lzOXVJWHhTTHYrSkt4K0tuaFpvZS9lMHpsbi9yRHRKRDlYeHFweDVsbXJvamNETmUyS2laZ29Mc1dkU2k2am5mOXc0anhPRThnUnVycWVCellOcU9KVEx0TU9IMmNtb25CaUxRU2QvUlIrQ0xmWnAxalZzSUpPVVVuN3NoZTBGV2t6NUdBZ1BxSXhJR2tLMXFHdVBzMks0MXRNa0o1ZVZxQmtYUnFpRS9IYkZTU2F4Wjd2VVE5cnJGcnNTVWRJYjZEaURjd2FyblU4TVJLckZ3cVU9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuUXuy9l2q0yG4bhPkEY8JHfz8nQxjywj5dm8mNBb_US2OP3WGCadH8bNwLQcR-2crAWyUKFFjWkicnqIaN4ngILx7gQjhb8hBxvNegikra6WqW0cfQdl8K1o6IaA1uAWvm2OGYhsWrnbpj5kcDtjEg4LIi4bkizj8ZH5P1ULF26A2KTtdPu8KjCAZ_3Z4nOOlubYdLlo7QjKeHL93lwdqcGfMApolKcrY4aI4jK2NemvvdsztTC0kENp4C5B_3sNjTATYNqu_XlW0D?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4239449258845,-6.18953165130705,1.327606364139879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060006B532390E026DAC">
+		<name>Warung Anditikno</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari dan galon</div>]]></description>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0C671E6DCE390E026DB6">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdGF3QzNxd2J3VXNaY052SXpnaFI3RmI3c1QrY0g3bmczSzRhVmZrWVBYK2JBRnlMSlF2bWhVYVMvUDBJSDF4Mi91amwyZkxVRjJCS2t1TmtiRFliMUhKQWFZR0VycVJDTmN2TnN0MFcwQnh1RExMWjQyRGZlSjFiZ1R5VDd1bVQ0eUVDcDZ0R3lTWnN1SVI5eURyUHA3dnZyS2N0b2Jvb3N5SFBjalNWOEl3aGRFMDl6OURYN2FsS0VjOUt1TU1NWVk3VmV5YTNleXVaRUpwTCtkVEJubERTd0hLeXJqWkdkNm5rbCtXR3dkeFBuTDV2c3c0bFZlTkNlZ3oyNndUUVU9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtE_n6Rjm28XCFv_uYlCypW5tL1keTs2UjUAm1aGDd0TRalX32hdHvoK7G9wsGn5eO6ioIQKm49F3BnXlyRNDGcGAlH3lY68bW53u5MDsso8d6j8KhhZOWqInmPaeaDJb7pRnXX8GgpDhGFb_Z3RE-vNyP0Nicud6F0Gff4KWQZch4voqmHZC1Yxx9wi9mXGrCEDKNJJ-_H9DzNc6IVltZpaPM37GRqnrth2WLDGATWfQV3OE-8VLL4af2h-oZcXlYIv6KvIklmWXH4?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLc1ZoRDB1VVhuNmZUNEZVSmVpeU9VTHpNd1BZRG5nRThyeUhManZiNHY5U0FCUUJQNlM1YllsLzN5SkVXUkpsb3FDRGcrOU5EOGRlaHd4bW9mb0JHSE90ekhlZ2pDQmFiZ3EvWjBFN0I5YkVrbzZGSHlRUU1PMWpxbFV1SklKTThVaW9neXVkenRGdkdGOGVZYU1zVm5nT1FrT0w0SU1KcnFQenE0ZHFjNTB1VjhITlladlBOdDB5ejZUamFFWVVCbjVsSXlIVDJkRU9PWStDcWNORzFzSFRYZUg0NUIvUmJNMXdHTjluN1NSbVFJZ3JOdUlPRW5XOS8wNkkwSjV6c3M9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuO4tfIKas7dlTuQBjUdY9C9Iek_0RGCdNp6SZPpQoTOQZAlFmp9EpuQ4mfo3BABvrqQs1n2engTLFNAnF2SdrHhI_8iclNbL95wm52owep6pHVKXre5uQrfd66_3Ed6F-1VslpbDCoh0OaNNj12xdJUVbWJ4v17RIbhowZ7S_HOvy3D_kuAbjGIQtlLzSWSt8URT2Yx03q_m1h4xBhRvvZBTqKHa5DBpJ7fjT_UZvS8F0OBfe5jYvZhGwes2XVZ8Pf3sDUSb_WTMIR?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.423877678712,-6.189569049018697,4.256010994585027</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="065AD383F1390E056E09">
+		<name>Nasi Kuning Rabiah</name>
+		<description><![CDATA[<div>Menjual Nasi Kuning</div>]]></description>
+		<LookAt>
+			<longitude>120.42388832953</longitude>
+			<latitude>-6.189521613258583</latitude>
+			<altitude>3.212837886155877</altitude>
+			<heading>248.4010483291909</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90.27940334142841</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="099C411C31390E056E1C">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLc2ZtcmhqQ2o3WFRrSjBtV0tNT0E3dVRMY0lGZTRaVFdrbEN2QVhSTW1iNFZ6NmRlcDlKeFdQdEZhdnNRdWpmcERwUGo5TUNyUDFTS1RMWHFNN0tzMEZvYjdMOWNhUGRTeVhMZEZnQWZFTVI2VktINGtjc0VPbHZsY0Njc3ViK0JTVmUwOUR5YVBxek01V09MZlp0VGF1Tmt6ZXRpZEsyYnprbkhSNzVheFFFNUhTeFI4RENyU1k2cjZvbURud2ZERzVVeE9pKzlIc04rNU42MjIrOW5NajJaWTFlVFJvU09wMGpKNkVSUitKNGxWQU9IMmxrNTJRVzQrQWV1N3hHVmc9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtX2doPfTbMPUZr9SKWkvT0V5UcF9w_vHbYvQohEXJzLbyGLKl3-P8AljPx0OmnuQXn4_Ey92hthiFsPKxLBgjv0GWcLVt5ckxFmBjrZ4oiSUF5u0XO8IPzkbFyXHHeYSJggjkpv4cw9nccKa8Nk7WXb--KUNi6Or9tHPnTsz3t1aNzBEOt6wQOlddW4turIHffc6UB6h3rkgWry6wJIgSiiz71VgUbPmPyFXxgBX54aVx0WcWzixXYBsEVSzEuwKQ5c5AmNtadPqR7?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4238428120525,-6.189526481591447,4.115237919224162</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F1C24C06390E0A0ECE">
+		<name>Warung Ibu Denji</name>
+		<LookAt>
+			<longitude>120.4183743016774</longitude>
+			<latitude>-6.164674215394686</latitude>
+			<altitude>7.967916255399787</altitude>
+			<heading>-1</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0D75B3DC50390E0A0ED1">9</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4183407136686,-6.164652772757032,7.967916255399787</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0569190079390E0E665D">
+		<name>Warung Bandaeng</name>
+		<description><![CDATA[<div>Menjual kebutuhan Sehari" dan makanan Ringan<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4230498159605</longitude>
+			<latitude>-6.188311276442325</latitude>
+			<altitude>2.937383294902014</altitude>
+			<heading>325.6684969788589</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>497.6457259464223</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0D02D14A8D390E0E6664">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdXFSMElMOHBzUy9ISVpzWmJRQjRPTDFHVk03UlkvczEyNVRuc0VTYXpRRGY3cVUxSUtyNUQzZDlWSGZBVlBJSWNNY1NoN0FZMDZFaHg4Y3VBRUs1SUZYZWh3NElmdmxLR2F5Rkw0ZGlEVHkvdVdGb2FiS05XdGE3UXNqNXErbzJnbXR4NlAwakI2bFRSc0tyMDRlWktER3pQNmNESTdMSzloREg5VituVGZqbHJqUDZuclU3N3VUSVAzWFd5aytRdHdCYitDRmFPR3FWMkQrUGp0b2huSjcyd2IxY2wreG9TcmZRemU3L283dzJMQUJPb09JZi82bkU3YXd6cVRTNG89">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKu9iYgn0NPuZOSRm0PF--AyijprjBs_wkTarN7gXkZiXIvDocG2BRUbKBLAihWdcJ-ifx8Q2UyGqAdIyVtZUMUv7aJq_JM7F5n97-KS3faq3OA4uqYSzJ_cEgTaW1abFLyMIu36QZENNtpu3vJBqlZGAfwySSewPM5ejnZLirm1EpOwxXrvJV_FEd6UGynHbUuZhwcgI_NUqUjxbnlmVIrH7i9RH8rwttYDuwVymv1soZoiXClKUQmFVFiFSFy5Kf0Fus0hj6Qvu26g?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4230242412942,-6.188413356864326,3.856352131382934</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB4B25286390E10F296">
+		<name>Warung Ibu Andi Farida</name>
+		<LookAt>
+			<longitude>120.4185055689812</longitude>
+			<latitude>-6.164789509343817</latitude>
+			<altitude>6.96922579682491</altitude>
+			<heading>359.0000834648292</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>88.7243486675834</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1F704B4618390E10F296">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4184814883427,-6.164709073960313,6.687200989915034</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="084E65D414390E141301">
+		<name>Warung Siti Rahmatia</name>
+		<description><![CDATA[<div>Menjual&nbsp;Kebutuhan Sehari-hari, Sayur-sayuran, dan Snack<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4230662114602</longitude>
+			<latitude>-6.18828722735564</latitude>
+			<altitude>1.904997231343646</altitude>
+			<heading>253.5984972113739</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>66.84911020463916</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="029C56409F390E141308">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdnJVRWZ5RXJ6SEY4MHF6aEVscFdodjZlZTJUN0hkRHhCdU1SR280ZmVFSzRkWjdFQWZOcGg2VVlZUHVDcG1SZVQ3N3Z2cWc5cUZ4VjEvQkkwZjJLemhXZEpEVGRIdktLN0h1eVBOcUhNZzNBT1I3RFJtRzFHNGJ6SnhmMWpUcmJoT0ZQMmJ3UjR5U2pWOHpSWVJqT3FkdUwxM1dOTzRKYkxMbmVDYnhyNmdJV2RiMFRuV1pMS0pqR0p4dVBBQW51Ykw5ZVNmZ2tsd1NFTVd2ZzJkTEtMLzZHaHA4Z0VUNS9VVE0zcnF3ekc0Zkt0emFpelFtUjIwVURGQk96OWdWY1E9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKufz8Vk9TQHvMbAy92meNKXnRbVUuHjCctCkkiJ-WV5IW1o9BDDFefL3yuTXToRjmJqfaEjgiwnBedw-2Zke88k1SFOdwazuhw5BV7YwnXZETMmDo6VS_axuY166tCCfpTPjtom1l7op7ThzX4BtZaEgo-kcHjEFge2H6FxNRuLu37IrzQu3MNbTA7k8NqwwrtpyVcJJ7tkKI7gVMNbQTggdX56TLA1q7ronXykFXES8mn4l07FSZpW_joZMR4vP8JkBwvkRmOXEtvA?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLc2huYW0waHdodUVGejdaTDFqM1BWQjEyZWxvUzYvY1cxdGhKdThkOUIvVEtnamcrUFZkZFI2cGZ3OXYxaHlPNWxkaG9PZDZjcVJYWUdnRHhoQXZEc0hNQWdpVWxJb1l2a0VJeFVxMnBUUWhYdGR0dnFwTURYdSt6OWZVT3FCR3V4OWd1dWRrczRvM0ZSelN5cXNNUVNRK1lzYjgycnFjVDFyVmRQMXJUZzB3YWdNSDQ4bE9vVFBDTG1ROFF2K2dxN056MHRYd0Y2dUJhV1o0UG9sS2pzRVNtMEQ2TVJJL2lablg1VFVXSXoyL2R6RFpaVFVmbEMzc2FaYVlxUzRlek09">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKt3E-W1PCP1DJgjSPMBExHCz1_Cm6wreofLG5GoYWM2sBX_ep3SrpvyQPP5kLruORtejDYZMJDn4e38aYMV1srnk5L63xGp4-01CI4I8LW1zdIb5AQOvnTVHI_pMdZAWmvrl7ub4hmfqHg1hckGacdQKw5QHAta-SpqmfCxe15TdJl9Enc9oQZpuxBi33yuijpT_3j62-CdMoTSgkUXJ4-Dozo78-XUDwkREw6Uox-9wwV9Qmonh9vQ1-BD_PwuQxN-3Tqu4K4wKmDu?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4230263697186,-6.188293843245359,2.906446071805806</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002246DAF7390E14AB8A">
+		<name>Warung Aqila</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari dan makanan ringan</div>]]></description>
+		<LookAt>
+			<longitude>120.4234030004829</longitude>
+			<latitude>-6.188594052776315</latitude>
+			<altitude>0.4235148006153899</altitude>
+			<heading>338.9152172828918</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>83.61752969584813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="006A69A472390E14AB92">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLc2JjUUlVa1BJczd2RGkvMUlwSWVvemVrNGVUeFRLbmE2UjAxRGhpak8xOHNSaVNTOHBQRGd0ZXVWTCtPR3RxdFJ1U3NJZDhmUmlKdFRleHdWcE42NCtQajBYTitreCtzWC8rb29kZG9QdE05bklZQ0Y0Umhnem1zUWZ2VGtzSUVwVjZqWHVPb21xUGlsc3lpS1VSVlpCa2NiNGk1OWQrWnZHNStQYWttTW5OVklENjRTcXFmQ2traUJ3alpRNUlLTDczSVg5Z21MeUg5MTFqY3RnL1JYWkp3QzlkbVVHQUExSlhuTDlIRWNZT0RlRDFCS25TNVA4dzZzNzI2YUI4bDA9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKskCKSpFZUyVvKU1GSRwyoT1-2mUI-bZDM-Fh0uWrNwUgoUZcxVj5ip3HU5W6gO3tNLMb93QlBs__Y17Rj48vfNWMpxpk2rxvbQumA4O6zQEp3AY3AidtEuvzenIy3fjM_ZRrEiyY7yZl8M8Duwm2ji9BECKAuxIeoyni-dfF_orsS2JtR5XmVkp1O2WmFIzAepWHFkcx0HF4iBXndVl2GoKrCol2R8OnzEShcyfIvTrHNoju_-6YrASKLdJcZbu3aSeAX-e1zWEsxe?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdVlXZ3RNeE5wT0Jma3E5NFUrVVJxRE5KNXNWalZocG5nVmJjSFpLZEFSSkRoRzNHblg3aDBucjAzTG1jbCtKUXN0WnZtUy9hQ3JSNTlSUlNpdXZCTWhUc2RwTjNSUVdrOEhteEo2NTA1WG5rS0F6OTBvcXVUcTdlZlRmVUpveGllanBUNnFVb1NFdzdNZlVVejZQOXE0OHNRNlBpMmRtUWhIcnVBSmdLY05IZm0xeFA5NlBBZU1wcldCcGFFcGZGZU1LK3pQWStWVFhuQXMvYjM1Y0c4cy9Od0FKRlVSa1R3R2tWNTNYeTZ0RWZpMEVyT0lzcEJCeXRZaHg5RE5zV2c9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuyThgBNvN_wShWxaNil1kFYuh9yTCSK8V0bo3g-cqPuVEP5chaJsvWQWbu4pWJOM8vvUKWFi8b7xHelsJpy-pxfjovtamC5rhgg3J0ZJbSDv8592_Go0F6PdWUC8PSmRn1lIeKGkDB_4uU994tCx2oXOt3gVL8BbaVWV2AUVXEPNOP787PLym47faVbXg4EPWyU0uGWMKd4fX5LxqexYZBMIpLqp2IS8lpzXA1dicDxkyA9Ersa5Bmaer7Lh3wjql3GvGH2t8f8cDy?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4234061494094,-6.188577013639819,0.008329721382409616</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054970D84B390E1544AE">
+		<name>Warung Ibu Andi Nurmawati</name>
+		<LookAt>
+			<longitude>120.4185274075118</longitude>
+			<latitude>-6.164742218758482</latitude>
+			<altitude>6.698365230976178</altitude>
+			<heading>-1</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1F34836811390E1544AE">8</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4185274075118,-6.164742218758481,6.698365230976178</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A13E3AEA0390E24B77F">
+		<name>Warung Pak Abdul Karim</name>
+		<LookAt>
+			<longitude>120.4185797673518</longitude>
+			<latitude>-6.164894892776859</latitude>
+			<altitude>5.580894058703256</altitude>
+			<heading>334.4893400283975</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="050ED09434390E24B782">11</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4185797673518,-6.164894892776859,5.580894058703256</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E95E467EB390E2955C4">
+		<name>Warung Hayati</name>
+		<description><![CDATA[<div>Menjual kebutuhan Sehari-hari, Perabotan Rumah Tangga, dan Sayuran<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4226614781883</longitude>
+			<latitude>-6.18799814602814</latitude>
+			<altitude>4.195765786221239</altitude>
+			<heading>240.5807968790382</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>84.10048712810749</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0EFE2FC6E6390E2955CD">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdjBZQ3FGZ3NRZWtYZndQcUxsMER4UWtBQU1lZ1FPR2dMRGtOaUNadDlWa2xUSVlGVTVzVC93NmVmMnlsWFpsb3NZY0NiZ3hDWHN6czY0ZEg5aFAza1NPcGhvTHM4ZTd5ZEVoTkI3bVFVUEwxamN2Ui9Fdi9Malg2M04vQ2RlR0pqR1RHbkZteHdEbjh2ZUhSMDlacHBZQVVaQzg3bUFpdXIxY29PZW5OK1ZtUGF5UkZOT3AxdGRtOFlabjIxL2ljMTRYQTFQME9keFlEVVBRYkY4aVFPejZBUkNueWpBY3BmYWhZK0Y2a0tkNzRmS3llM2tyV1NqN0hkSU9BTE10TG89_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtYAmmTEshNEjd0Ktx0SxK1wQLdV9BPxoArN_XjeZLzCPhMAeBCAarGiukPhs8JAsOyuIIuJj2ktkhOEJ_GgpIMMZSTYjlaNVIQfSHsCVp5v4RgQWwQhMjMu0r2CAW0hh5QXAbeOKAIIPU_OSATc54TSxUBX1ajYNyEs4Ye9wXetemPnJwLX6RRr4i-NSBGct_De7Z2SIPN3PSOGxGPkS2i55hsguiDwGu0C9NBPTyqxT-foTLgSHuzX9_FRtSTVBtXfnmvgkhtZZwF?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLditYY2RMSk4xZXk0WlJuT3dtdUdhRFc2aGpwQnBpaE5Way9HY1kvM1VCRVE3SU9WZjlJV3hmYTg3eW9RbEN3SUxPZXBCT1NJbVVRM2hiOURueVlRRjNLc1BvZklhRlZrNzV2aDUyUWZkSDZuRTVSK3ZQNCt1TnVzR3BzUkNETzlUQ0NxWlVEWkxoazdmSHY0a1U4WVpOaFdXUFkvaEpvTzZEUWtQVW9BcUxydnJONG5OenYyY2lQTTVlQ1JNTmtWYldkcnd2S0ZLQnZiMjNnaVkzWTNxWnY2eVIzRGVLUmJqL1VqYlorTUFObDF0Y3EwTHAvampKY2hhbm42VGw0SHc9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtG8EB2ui_GOztuJ_PckQREP_I9SCqQbWhu7VbXZdMIhLiWk-6H6ShSk4alB4d8_2cPCnlnBS6QwO65mr-jXesm1JltckgRZNMtESoT8JR6-0KuC8-UK1k8aoVK5tRt1hK1YE9av_m6n8-Qm_2s_EU2J9nsywuEogEMSuacmdk9MaaAcFofbV09Z78_KNPpnS1SeR7hc3G_xeVTs_5b0sHZ8zop4Z5hiWRLHxTBRnK_61b1ieFe1pF4Bs8Ah4rSyJ1NpZJSfAZ1sIyF?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4226657147212,-6.187945933784685,3.060870021816353</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014FFEB62B390E2D8397">
+		<name>Warung Erni</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4222815874561</longitude>
+			<latitude>-6.188035436025999</latitude>
+			<altitude>4.262633823844273</altitude>
+			<heading>304.3977975679099</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>229.6957345223564</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="04B6E89ABF390E2D839F">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLc2NlUERIdGIxUy9CK1lrM3BlRXJqeG14RHhLYm5aamc0UlRyQnB3WjkrNWNzb3pUNzJJWEh3R1AvbENkNlk4Wkp4emlQZkZXV0xNNG0xUWtPbHRaZGE4a3JHa0pWRHZnZ3NSZmoweTh3TjlyNjJlUDhLcGlwWlBKVENHUlU4L0RpZ3NPNW04UFJLTTVYamJlOUxXcFlpTTJ3ZS95ZFpQZlhLU051S3ViZ2VNVnpYTjVsYkowc3dBb0daZUk2QU9JS1I1VkNIZnNEb2xTdjNtT2VBcnd2NkY4MEFmbjlSSTl5WHJOckRuVUhtV3NRTWFhNTN5ck00NXd6dVE4OEhsL0k9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKujuDlu8MVggi4WDOSE12gnAV8p1HqzgqqjSCscAQukbU9VHBwDuN8ytyUFMy2GE6D1MX9RtJYdsYmCpWzCz3HfVUBIwWsInulbHWl1N_WN13MMY2glT0SxlyAASoKAteVWa1Pra7KEJm1Mkayg0y2opJpLvnj5Vk7CiTUqzywdQHv5S2pLlx6YCbptzGEalN8dI1U0IFs3rGaxZUQXfcKQVws-PRTJyT7wPRPN4y7jsEei6-U7OqDyzjOEx-yyAYkYw1WwTb5x95iT?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdVUzWktiS2pYbUJJM2hPbUtVTW5ZeXZMZ2QwN1RoUDUvUWh4VmtrVnM0WHp2dFBDazA4NG1xcmFIcWxzNHZ4MUhRYzA1VGZyTkVYTWVDQ1RLbko0eGZ4ZEVLQnh5UFhlQVhyanA2dDhLQnNacVRyNkRoK1hFck5SWlZTQnNRa2Evc0RIR1FCUkcvL05lN1JEY3BoaTRNdlJscUk2NnhPeEJ5ZkZnT0FCMmd1ZVNUN0ZhVHQvY3VLZWFHRy9WWU43SVBjRWdPcnBLZGxCQXBwY3A2T0x5cDBWQWtNdXk3amIyTnF1SzJ0a0p4bVU1Z29ROW5rQWpTaFlSNDEvck1VZFU9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKvvDlQ7fIhBgy0Pw4OcvOCOqp-77UKinzPs6qv7VeD9BU3e45EHIJmOnCz5rJRTVrIddPFNcWoTJOusBFX0LQeNbPMwPZPpiMgt-qAuUtsS741GYJ_4JI2TcL-OFwi92psq9inH9wncQP97RXJiH3_MyTZ9iylUPzRSfB-xXtVOT-mpuuGPhmkuJQktosoOAQmewDdTSy3zznzocnXlTCesZbWsArnCy_hHDcZb2PYcoXZ4n5Da_pdVZa7cNjP-YQdeNtq6oUsY2-vN?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4221308624945,-6.187959701338284,2.822189382608018</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C0CD854E390E2FABBD">
+		<name>Warung Sitimari</name>
+		<description><![CDATA[<div>Menjual kue dan pisang gulung<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4217424717269</longitude>
+			<latitude>-6.18769021418696</latitude>
+			<altitude>4.898025368750194</altitude>
+			<heading>304.3776487258003</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>127.7439414889523</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="000F3016C1390E2FABC8">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdFpLVlVhSytCT09MK3hwSHYrVUlXQ2VTQ05MVFlpR2txZ1dVYzNGMUswZ0kwOUcxNWhLMjFYaDdZU1RhK3UyUis0MlkydWU4TVlkUVVjS2dXekcwcXhVM25LdWdiQmVhZDdpcDJMQU5YWlNudlNwVkJmNW9zVlluck91UEdQczZtME1GWmFhTjZ6VUw4ZmJvZjRCUXJzQ2JmYjZsOFZHTXR2RmpqS1JiZ1d2STRXb2hKTm0rZEdZa1ByaGZZcTFUNU9zanlTQ2d1Wkh0WWQyV3NNam9ONFJQcmk5TzJGbmd0ZUtPc0dkUmhHRkRmdk1WMjRZc3Z1L2hKelhpdmd1MU09">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuVqGmNM_UGbweGhf0g_yGJXhqYIoTrQaX-fMgjlIw-0f49aSHjzFPcYcMtzBuB3Ai58wa5k7OQsiiXLZ68KXjdlSM5y2sGOad7_tLMQ34l5VoYLmixYDbrwd8ueBKCir9L0MEZ99eGUWp1LpLxx3XyT0GAh1lxhD7Wc6g3-aHSgrem-tXKauqyjcmkc8Msk2RpJbeeNrp-0WgpBrG_e6d6oNzA0q54j3kXrcIbFFq_Gmkbquuj5tAJ-JOE7cwxBeUykkUu643FT3X7?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.421750186306,-6.187448113047493,4.817445944892236</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9378B5F7390E327280">
+		<name>Lisna Cell</name>
+		<description><![CDATA[<div>Menjual Pulsa dan Paket Data</div>]]></description>
+		<LookAt>
+			<longitude>120.4218190528784</longitude>
+			<latitude>-6.187955048309417</latitude>
+			<altitude>4.019362920780898</altitude>
+			<heading>214.9376030413841</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>166.8297063564933</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="01FACAF6C5390E32728C">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdWRSY3NrWmZHdUtLaWM0Vlk4Vi9BdlYwVHNsVytZRlhDaWdnbUd1L2hIRitrQmE4M290QVVYbnFreEZHYWlYMm1md05HRGljeDFPMlM4NGlyMjNUR3czUjhGKytsWEZsQ2NJdnlGcUQ3MzRtMm5rb0xxelBsUUQzTzJZWFNQbnNPTlgzcnYwNUlpeWtLZTA5Zmk4cW4rbmJ4UGlHT2s5OWlzZ0N2Vmw3THlBTjlFVDdtdjFLVHNLU29ucGJZSENSeTVjWE0vQjBUT3B3aU5scnNjbmRqVE80NS9UUDVOdDNRb2xoeEpJK2tXclRZb1k5dFQ0cGYyU09RZFgrbFNjYjQ9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKs1ZBDeVy87iA4m288QEMDfqUqcf6NCY64HPRLcmBP08IhQN-cqCW_FqtvyMLOKjdVqLFSKZKk9KOrLx3mVtTAtiRjSY5e9mQroWtTmF7EiqUMwyx_WeZgkks71FCzPkQuxRHiKKT3CVncVMfO_k_pe_NlZfuMcfQxjd8XKEN82o3QHgNMfklATnYPd9jKZf5eMwFpUGUulNkuESTubixgtow55ThwxzNQhfdAuaspbJhvXFs-RbtlFGy4MTmH0ylDNtvuY09s08B0b?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdHQ3N1d6Q0dpZTBJVFpLRmpFTG5IR1V3bzJQTTl6Q3Rvajd2aDZLam9ZdDVLd0JDQ1RQMHJMS0dNbDBET0FGMTU0RUIvQldEbEZNbGVpanhGb2Z3VmpBSmx2SzBPSEZEVzk5TGI3TWd5djcvWEI4aGd4NXYwc0YrZFRqOUg5NGNNQzFheXlqWVB5cWtJL0VrRm8xMWtPMEs2ZmJYbmdDbEZzS2dIbGt2SUx4b1RUZ0wxL2RXeUhBV1ZCSG5qM3JBQy8zcmlWK1pIV0c5WWsvY3R0NWdrcUpRYVUrVHpCRlVMWks0Uk41SEZhalZ6YlBwRlhQOEppUUFBNjhucUpLdU09">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtK5WIe8h7JmlwhjoxX2fHhwhuvMLXLoMQDBX1E1iRtGDpQ8190IYsKzw7fNDIFAuUrUEXO0X8mrrAugcrw_9lH7K5OXM-rgF38cfHNIu6yJjEkXaQpnuGPeDlWpLYaqpNOZk070py865K3LmbOn16YGeS1xUHp7XvSu1R6iJ9whf8E6oelLGSwQbky1g7bf6MXeG6skGUCLzKebaJ9x3c9jiLcrVqqW17Wylybsve_9UaDgclQ6R1px69x365SN1EuuBlnISK7lv3b?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4217383092279,-6.188068149706203,4.688227127741311</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="085416A4AE390E35A8F0">
+		<name>Warung Ibu Sulmiah</name>
+		<LookAt>
+			<longitude>120.4182706466456</longitude>
+			<latitude>-6.164033082587825</latitude>
+			<altitude>6.288836496045938</altitude>
+			<heading>-1</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0581B16884390E35A8F3">6</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4182706466456,-6.164033082587825,6.288836496045938</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02E2E49104390E5892F1">
+		<name>Warung Pak Lang</name>
+		<description><![CDATA[<div>Menjual Kebutuhan Sehari-hari<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4149998897409</longitude>
+			<latitude>-6.183143844561223</latitude>
+			<altitude>57.56573113631951</altitude>
+			<heading>292.7876026683826</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>118.3141467782298</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="055AC6FEB4390E589302">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdjNva0FWSkpzOEl3cjJkL3VNUmUzUWhIVU1td3VjYWRKS2FNK1pPVXR5ZDhtVW1udlQ2QUhHYmhybnh4NFp0amxmMkM0QlQ0NDF1MHMxTEVWZWZMTit4Vm52V1FrR2NNUUVnck45VGtXajZvY3JiUjBmaUxjellxdnkzaG5rZUxaUHcwUkMxeis0c1RxbFNUZ1lpVGpPbWpsZkxEdlNGeDBVZUkvdUx0d2tBOVhaYTZrcXNiZHg1b09lY1JxYUR4NDBQM0syOWk0TXFaVmlKdWJJRldnaytPM1k1OEtOZkxjWnU2ZVBVNlprc2htMEZ4NUVRMUFEbkVtVzlHQXRyelE9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKvQ_yodmt6A1_nSDCStuQwpSAPWR1gXAX0nMKtjn-gdDSX6dXjZ88qiGQloS39icyl1yDWzt2DBjPtdhj2Z7kPz56eWxpltUpGvTwq6QMpGH5FhW2D-t2f14TXCUrwlxvZR8ARizJ8QehpdDuOXRWGAGyrNR7x-8Bo5MN1tnd-WeXo1S-S-BZd6Q3RhRz2--dNvINAFwdYE5bckpJWv7Q4mMaZxCpbGITkJRgZLhaQUrMO71fpEHvaSMz3T6lpo6uFu9XU0b6EEFzn5?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdjVlUEpla21saHE1ZStIQXg4cVVwYm1uRGYzaHg1WEdrNGV2TnZmSU1WQjJ3a091MWl1YmQ3a2NpT3VHanF4bVRrYWlQbnZaS0F6cnpxaHM0MFRLZCtVOGxFS01UMmR2S05QTys4S1FsWC96WjZ0QnlsYk9jMjF5UHhqNkRFMjBneUpYTE5rTXh0RTFpRTdzL0dHSFpWdFFMSjgzYjVUSmw5ejBRUDlMZ25zdTRWM2twRE5nZXZtckQ2ZTAzTUVUNGoxMzk4aHZlUWswZUVodWlxR21QTFAvcTl0T2ZXb2srSU9JbmEzekJUNnUrQi9zOEo5U2ZveXZRT3VJUDhoMzQ9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuACt-Aq9l_9vr2ge8knUDxJ6LS1wmyM7Wmp1X1kYr5bPIs50Anj_Yan_mJzPSY9dxV2DJkdSXFqUihWw4qOxkz4pLisnYpiJ1YB6_TQd0YHfVKSh586H56J8cVND6MI36oqkGWL0FHgQ7Gl9u5aWi9UNGO7mApnCy5ITQogAzgRVRNRDR4eo_9qDP0ovqWiW5napoz27N2FLTYdjoGigkQzwZTxH6PN-7dIk5S9xMhA3LhxvbQu8hVA2h-Wol27yBoC0JFkxNXrZYa?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4148958064695,-6.18307816468901,57.58796967934057</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064A50CBE2390E6499C0">
+		<name>Warung Satualang</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari dan bensin<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4147704658036</longitude>
+			<latitude>-6.183223758828469</latitude>
+			<altitude>57.10600755549884</altitude>
+			<heading>272.8262332472641</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>180.8159737365532</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F3A06FC95390E6499C7">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLc1IrV2xLMFpZVE0yaWNGdDhKRnZVWDVYUDZrUFhuSEhJV0wveEpHNkZTZUNxOHF6R0cwWXhGOFBUQVBCbHIxWmFud0Nja0o4ZlJFSEhNQktiS3gxbGs5RFhRSTBNeExsMnlHMUt0RlpUSDNGelNpeUtKVk0wL2pibHNsYVhnRlB1TFg2Ymc5NFBMemxKTEVrUGNFcWVUNDUzRStwVGhQWWRxZnhUc0UzVmpQTS9UQ3FXbWZONWJ3R2FqanFLWkJLVEFnWWl2WjUvbE41angvVEVIc3grckdsYTIxTTdjR3FyaThFcjdLc2VqV3VXbWUxOU9zY29ZYzFSTmozVFpwUVk9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKsoIaRSOcP_OZBYfoGCltnMPZaTyvKYlkJbL7K9Fpw0BIrU9bPylT7z0XpALwIoyvyhSpk2GWEySXxqAfMCSSiWyms_VFblTS8rLNDrObW1CNMkvttflveF6Sj3GEanudK0q1cgpjgiDaQt64JijD1h0O67TghIV4GOf_IWJqxsIj2f9kU3uBWi3-IPGPS5Z4xk8DlIBP3ch5Nu67-cIWXH3rdrtyU18LzeqrhiRvwGJcNr3khWWvlGEw2pYOvEuagLH6sfZRNSAfEi?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdG55dTRrbWdXb1VmN3hWWHhzZE8xYTVyak9hYUVSOVJYVFhEb0ovRU43aXNyVi9IdkhOa21VRFJHSGV2UXoyMjNLV2UzNHRBdnZkZ3IyeHFUU01yZURpM2dvbzNrZFY3SHV3Ry93QTBaQUZpbjBSM0hJbk42aVhxVlpYc0t5Rmg0OUZIZUprd2M2akZFNjZsN0FpejZlNEpjT1dybHFqbjdsT2hiYWlmMFBQaTA3WVhWbzJQekVWMXVibDF5eFcwU0M0a3d4R1VwT2FOVm5jZ2Q3dWQrRmdxWVh3MkduSFJWTmlhQ3E3MVdOZ3A2c1ZqRE0rUHh1SURBUFk0TXJKSEk9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtOjd5cd-vhZ1bPizQTmTK__uIu7tHW03HTlnDUsByV1DM4pWsbFxomD5XYDAvNtWWGc5L9PDLVzKntveLO6N7iJH0sg5UhVw_k2NokEzfnFaeoTEuNiuCXTODDZIOaZmqG5OpYXlKyF8towIjdzh8Po9YL7bIQ_KDleE_9FbRV9CjIGe4gwMJt7BJJURBgEvo7eDp5O64csjsXRBpPmEJSPgyUYWO-7IXuviYLYq89KoFYLkEUMpwpnqUQxw55wXEq4KfidbDh4yIs?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4148590333541,-6.183300776669816,57.4621371513297</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B8883C3E390E6AE90C">
+		<name>Warung Meliana</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari dan makanan ringan<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4152853566477</longitude>
+			<latitude>-6.182577416375833</latitude>
+			<altitude>52.3981020998468</altitude>
+			<heading>328.0334149514157</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>97.52499903248463</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0DD56F3EB2390E6AE91E">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLdnpPZExrMXNoc3V3V2Q5ZWRnYys0N2RCNXZJcm9idjlOYlE0blpaKzVxVUZoemRFZ3IyUGpram1ML1FQRU16Q21yaDUzM2RTZlg1d2MwVXNaTmVjQTZMc1NkMGcva0VLWmdaYWlISkN3bkhwUS91WUNzak9wTVlkd2NkTnlMOFJ3Z3ExV3lVNFFadS92MUExYU1uN09qRGpyalUzSnBHRTlPanJxSmhxU1dvMkhaSzdWNkZucU1jY2JBU09ucGJCdmZIMHlISnVJWXN0alNlRXVGL0xLVzRsMVpMUFRDNmV1aUw2QnpTc1A1VjVBT2NzcGRMaVhBQVlOaForK0tvblU9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKuUhLrdFwBiKo62G02_A6bd8HVoqumm4yEJ7nopCGR8DvO6xtgUuVeBJwwuI7nKWoc7Jd1tyqJ-EmcwMD_I8pi65VpVF8ZobKeqRGKUIyV3xBIFB7ZsoNzMV5yf3jeV0QTcOPl-4jH9n4kgKYyvHcl0eo8x_8DIInTc0KL1sdyCodUW7I4EitQ18j2IoSOuYm9N7TULhu-tdM9cZ_OpQB8FDdBq5r7MoB-IB1zVbiBCZNvT4HrESJR3o0trtqaqh4Ln7Jg0GDaRb7gH?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdUgrNWwwWUVFcjVKNy9GRWl0Y2NnOE5oSkdOZ241Zkptd0ZUMFd2WVVXRmR1Ym85bURCRDgrS0s2MDAxOUZlN09BRkVqR3ZYZW5GcmxCRWE0RmRYWFdxV3NubUJwOUMxMDJZNm9zQ2MzZDBZYnZXajNXUktRKytZUEU4QmNvSUtRSUV2SDdRK0pYZ0UwYmhsTU4wTmQ3Zld4RGFIcDdwb2FXcE53aFhRRlRuRmZGNDAwSjdOaElJSUd5bGJBUXpXaXliaHg1cFljaHQ5c1JOekZZdlc3b0JaVnNQcHc1RFhFdTJKS25FRWZ4YzF3bHE5K2NZdFp4NTZBWk02WFdSK1k9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKvAeXb3vm77Z7KTu6H4k5mcWzr549YBD5G53i262qImKTkiTuCtjsBKiRMURtt__cMmn92DYFmFKPm_uJ0pK60swjGMbAyzH5wfhi-zp8EZ8SKZOiui0e4dnzfZLqXxgwO9scpVUHL2JiRYWb1uImbNXbkP385oFj8AY2mcQQHyoEYSJh49RlYQwYVLRGUXC4dO76Dhn7hOCU4PgPStw8LXGxhSPaPfQfNUJKKVQG-2hLaPIXd_0WwrEsDwJBZQwUiHRbBABkKUTUnE?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4152905250746,-6.182564755712478,52.30211982012759</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CE20B8091390E6E6B26">
+		<name>Warung Citra</name>
+		<description><![CDATA[<div>Menjual Jajanan, Bensin, Pulsa, dan Listrik<br></div>]]></description>
+		<LookAt>
+			<longitude>120.415546728355</longitude>
+			<latitude>-6.182167004688826</latitude>
+			<altitude>49.95920958589225</altitude>
+			<heading>284.5246271904554</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>185.1030068133332</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0DCC7F7B90390E6E6B31">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QURiREJLc1htRE1kekw5L05MVVAwZGU4dEdWcTcyeEt2R2FuQ2JVYzRrMnRFU1N5Q21HOHVkMXVnd0RWak82U05aSlp6cFV1eTdQb1hHaXVFbFpqY3pDYmNEMG92SzJJNEp0QWtTT0pjZ3FjUzhmd000UlFOS1ZiNkV2R3pmdU83SEJtWTZYV3crem41YkNhYVZhS0xnRG8wSGlNWUwyZmdTZENvck5WdzR1VGQzUDgwcFpQd0Q5d3lwd3ExNEJvNnNuRW0wdWdmbDZST0NJbFNYSGVLUWdibUVjVU5jWENJQldPdSt6Z1VOdXpINFlQRDBmUjNnRVYvMzQ2Q25VS1hqMkNFdEU9_0">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKtAo2hsDoGNPQSBcFA11xzHfHNm80x8q37kmKnfvzgOpjusA-jZWqmbNKjK2m30ZaB1OWBbJ7Q9Ts8boWw1O0mHgkEZpdfrZtIs6dZUoqgl8qUp22QXY5QkJ793x60xFa_V9N2alrMUUgnCXQU60szpDq2Xki0mhbq6Mj7Dv6R7qLLU9uQ43DHKtWo8931B-RU6eohlWndov-zjBllM47JXJaTxX1s-DGkD0Rh_kQFeHWXvmCc86OcYJf_X251aiMai3s_h7Pa9mhY4?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QURiREJLdkFTem5BU21CU2NaOWorNExnekJnMUtpVWVSVVJzR3hmRVRHVFJGWEhXWDVtaGZ3dmtZZSt2UzhMZ1NaWlNPaXdwS2lPbEIzVmIzYVdjMmdXNE5hRnVyMnF5TzVnbG9nWVViOGV0akZVNWhDSHFRejdKNzR2ZDUyS3J1Mm54dDRKTDRSV2VFeGRZQkgvM3AyRU1PdWprdFU0L3RTMDI5bm5waytNNWx1Z3VYenhWYjZENFUzazA3YWdkK2FVWm1yb2JZYkJUeTdSbVpJVWMxVHNHRnJYT0JTZGcvdW14MTAyZitJcmlvSlgzMk1NdEFzVmoxWlZnaHNVakRXQzJ3VjQ9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4ADbDBKv1KyW-QLY6ZFyuxTqsVO3f-GUMoav8OjLnPlynfGkwHn3IpiLxLQVjU4RvOTnA7HAMP9G_Ck437S6N0eXi5kDmwtZ_S_46XUeObMFEAOWteiBbyzYGBWQs1uwPJTbdkc5UOdyxGQdnSR2E0gMh9dfEE6yqBvFntLbJFM9_Ot5KAHjJmm3E6hh1ADpBOisXxSKtFkGay4MIGA0GRsFng9S6_7QqzsBAPpcGxnq6hzZ2RnR3EESaETuXFcj3rP_NpEVK8gRpepVaBYqG?authuser=0&amp;fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4154575873647,-6.182163237574568,50.85973000109723</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="042AD61FFD3912D9A8E9">
+		<name>Warung Akmal</name>
+		<description><![CDATA[<div><span style="font-style: normal;"><span class="font" style="font-family: Arial;"><span class="size" style="font-size: 10pt;">Menjual snack, bahan cuci, sabun, odol, rinso, beras, gula, telur, indomie</span></span></span><br></div>]]></description>
+		<LookAt>
+			<longitude>120.418304668463</longitude>
+			<latitude>-6.1638489258606</latitude>
+			<altitude>5.511772521547744</altitude>
+			<heading>358.9761514378735</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>99.55586664358637</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="066D601E1B3912D9A8EC">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4182879429358,-6.163851019069001,5.475456349723946</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05586E69253912EE6063">
+		<name>Warung Putri Reski</name>
+		<LookAt>
+			<longitude>120.418310481661</longitude>
+			<latitude>-6.164178353450881</latitude>
+			<altitude>5.077496257148562</altitude>
+			<heading>358.9999999638271</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>96.42099203098041</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0DB82533F73912EE6065">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.418290703898,-6.164115682267718,5.320640942452533</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02D03A585E3912F763FB">
+		<name>Warung Ibu Sumiati</name>
+		<LookAt>
+			<longitude>120.4184864742532</longitude>
+			<latitude>-6.164367265537885</latitude>
+			<altitude>4.894970936319332</altitude>
+			<heading>-1</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F28E77E0B3912F763FE">34</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4184864742532,-6.164367265537885,4.894970936319332</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC2A62923391302D832">
+		<name>Terasi Ibu Rabi</name>
+		<LookAt>
+			<longitude>120.4188466366051</longitude>
+			<latitude>-6.164772858002289</latitude>
+			<altitude>4.477577846987773</altitude>
+			<heading>-1</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F7DA3E8D6391302D835">14</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4188466366051,-6.164772858002289,4.477577846987773</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F820E0BF63913061A56">
+		<name>Toko Galon Awi</name>
+		<LookAt>
+			<longitude>120.418650651856</longitude>
+			<latitude>-6.165029866342124</latitude>
+			<altitude>4.86952062933113</altitude>
+			<heading>358.9999278549317</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>95.55320532775113</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1C1A5C02483913061A56">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4186365368464,-6.165005906643316,4.832207706148342</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="048D884656391310BC80">
+		<name>Warung Ibu Haji Bauleda</name>
+		<LookAt>
+			<longitude>120.418589358546</longitude>
+			<latitude>-6.165141826196371</latitude>
+			<altitude>6.903506702679514</altitude>
+			<heading>358.9999989917414</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>128.3661441437653</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="01CC437985391310BC81">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4185949100881,-6.165095824849565,6.015779132601833</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AD92FC1AD391316EDA3">
+		<name>Warung Ibu Andi Ika</name>
+		<LookAt>
+			<longitude>120.4187357478034</longitude>
+			<latitude>-6.16533723629205</latitude>
+			<altitude>6.639629424160541</altitude>
+			<heading>358.9999985734148</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>147.3025557182882</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0B11A84699391316EDA5">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4187622341255,-6.165319009131689,6.218914533850817</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078EA16BD639132A8DE5">
+		<name>Riyanti Shop </name>
+		<LookAt>
+			<longitude>120.4187339337872</longitude>
+			<latitude>-6.165390695223077</latitude>
+			<altitude>6.138663701693547</altitude>
+			<heading>77.03681548778097</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>247.7088780151826</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0478E1B06F39132A8DE7">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4187974519286,-6.1654013002773,5.998493474503725</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2EC76EB239133D937D">
+		<name>Warung Salsa</name>
+		<LookAt>
+			<longitude>120.4187101971717</longitude>
+			<latitude>-6.165859663138117</latitude>
+			<altitude>12.57849922597686</altitude>
+			<heading>358.9999447475844</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>117.3678053963704</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0745B7F6FD39133D937E">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4187303569718,-6.16588840939101,12.67210238821511</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCFC0B0E539133F392D">
+		<name>Warung Pajri</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari, snack, dan galon</div>]]></description>
+		<LookAt>
+			<longitude>120.4201861048784</longitude>
+			<latitude>-6.176500807645493</latitude>
+			<altitude>2.198292532141222</altitude>
+			<heading>281.4868300847436</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>180.608939830272</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0FAC90D47939133F393B">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4202268968386,-6.17658314406737,1.153542792413436</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C66A77B183913445B64">
+		<name>Warung Asha</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari, snack, dan sayuran<br></div>]]></description>
+		<LookAt>
+			<longitude>120.4202962811775</longitude>
+			<latitude>-6.176861802963263</latitude>
+			<altitude>-0.04714160034957393</altitude>
+			<heading>280.2292994908692</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>127.1309403410851</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="06B1712B0A3913445B70">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4201950202179,-6.176886244057255,2.829521844772662</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0449FC09B63913468DFF">
+		<name>Warung Bapak Samsul</name>
+		<LookAt>
+			<longitude>120.4185861988189</longitude>
+			<latitude>-6.166044649412337</latitude>
+			<altitude>15.68920832658723</altitude>
+			<heading>347.9672569697086</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>159.0742498347209</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="098999CA8A3913468E00">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4185501909823,-6.166018234310036,15.7537540392039</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B1AD2C8E391346FF0A">
+		<name>Warung Mega</name>
+		<description><![CDATA[<div>Menjual Manisan Mangga</div>]]></description>
+		<LookAt>
+			<longitude>120.4202004197535</longitude>
+			<latitude>-6.177154009039</latitude>
+			<altitude>2.454349357042624</altitude>
+			<heading>197.3843702803055</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>132.2982934079482</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="06F0F1821A391346FF16">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4201472952457,-6.177287229990211,3.795458650488031</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="035F6E3AF839134860A3">
+		<name>Taman Baca UGM</name>
+		<LookAt>
+			<longitude>120.4201675119629</longitude>
+			<latitude>-6.177258776820111</latitude>
+			<altitude>3.276637316571096</altitude>
+			<heading>197.3843813959983</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>167.457494812752</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="06BBAF92C239134860BD">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4201290008315,-6.177395709258669,3.462466960397528</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F86C7605139134B885E">
+		<name>Warung Nurhasna</name>
+		<description><![CDATA[<div>Menjual Jajanan Snack, kebutuhan sehari-hari, sayuran, dan Bensin</div>]]></description>
+		<LookAt>
+			<longitude>120.4201012294972</longitude>
+			<latitude>-6.17785715151242</latitude>
+			<altitude>4.515399047681521</altitude>
+			<heading>240.2244432157056</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>100.7515526393581</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="03E3BF37DE39134B886D">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4200919506098,-6.1778920446932,4.570128007202761</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09DBCFCC87391351E582">
+		<name>Pasar Kue</name>
+		<LookAt>
+			<longitude>120.4202390215505</longitude>
+			<latitude>-6.178182350951318</latitude>
+			<altitude>0.2276636984116776</altitude>
+			<heading>275.6442084029749</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>166.9813110339055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0DE902801C391351E58A">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4201962874677,-6.178123867831185,0.9937674368796157</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F9F673F439135366EF">
+		<name>Warung Ibu Risnawati</name>
+		<LookAt>
+			<longitude>120.418642283175</longitude>
+			<latitude>-6.166186839536576</latitude>
+			<altitude>16.53976309582063</altitude>
+			<heading>358.9999985236997</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>143.1514476729535</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="03641AAEEE39135366F2">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4186745488479,-6.166205782167248,16.39658288303798</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1E5A5CC43913563CE3">
+		<name>Warung Fitri</name>
+		<description><![CDATA[<div>Menjual Snack, Kebutuhan sehari-hari, dan Mie ayam</div>]]></description>
+		<LookAt>
+			<longitude>120.4199474862354</longitude>
+			<latitude>-6.178641927440133</latitude>
+			<altitude>1.058835381099053</altitude>
+			<heading>275.0048881309227</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>121.703256478213</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="09133B6A6C3913563CEF">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4198724863703,-6.178625755515045,2.825359735572592</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FE8C2364939135CDF82">
+		<name>Depot Ayu</name>
+		<description><![CDATA[<div>Menjual Galon dan Isi ulang air</div>]]></description>
+		<LookAt>
+			<longitude>120.4193068521711</longitude>
+			<latitude>-6.180193103220223</latitude>
+			<altitude>0.317327820282558</altitude>
+			<heading>286.1543150798091</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>70.2124000589356</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0FEFDF3E0139135CDF8D">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4192198398254,-6.180185185625581,5.272566838415631</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E51DB23AD39135E4161">
+		<name>Kios Dua Putri</name>
+		<description><![CDATA[<div>Menjual sembako, snack, gas, dan tahu</div>]]></description>
+		<LookAt>
+			<longitude>120.4193451223532</longitude>
+			<latitude>-6.180284549971939</latitude>
+			<altitude>-0.04715063500157046</altitude>
+			<heading>297.9466528805933</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>151.3275428567067</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0E5254EA8339135E4168">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4192825217707,-6.180257658773675,1.411968857720682</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003061E785391364E4BC">
+		<name>Warung Hadiran</name>
+		<description><![CDATA[<div>Menjual Galon dan Kebutuhan Sehari-hari</div>]]></description>
+		<LookAt>
+			<longitude>120.4191554872364</longitude>
+			<latitude>-6.180532584925765</latitude>
+			<altitude>3.383648544622566</altitude>
+			<heading>283.518845791857</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>209.9029685954883</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0502793B80391364E4CE">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4190724328816,-6.180646419580802,4.100712814498628</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03BE8BD1A83913706D03">
+		<name>Toko Aini</name>
+		<LookAt>
+			<longitude>120.4188852208605</longitude>
+			<latitude>-6.166888363213559</latitude>
+			<altitude>16.8116558754344</altitude>
+			<heading>-1</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="06CE4CA7533913706D05">13</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4188852208605,-6.166888363213559,16.8116558754344</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9ACD5C5D3913776C01">
+		<name>Warung Ibu Nursa</name>
+		<LookAt>
+			<longitude>120.4189330330746</longitude>
+			<latitude>-6.167017204579205</latitude>
+			<altitude>16.76333210151631</altitude>
+			<heading>358.9999987948518</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>198.7994846685979</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="053995FBFB3913776C05">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4189144047327,-6.167019728606342,17.04848233074298</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026423E1EA39137BCAF9">
+		<name>Warung Nanda</name>
+		<description><![CDATA[<div>Menjual Jajanan Ringan</div>]]></description>
+		<LookAt>
+			<longitude>120.4198136414799</longitude>
+			<latitude>-6.17838953673906</latitude>
+			<altitude>4.765333435584465</altitude>
+			<heading>279.7256348744853</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>109.5074934150944</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0D647622EF39137BCB07">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.419782760064,-6.17838441293898,4.669219750590177</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BF91135F839137DC9E7">
+		<name>Warung Garuda</name>
+		<description><![CDATA[<div>Menjual Bensin, Kebutuhan sehari-hari, dan Ikan</div>]]></description>
+		<LookAt>
+			<longitude>120.4197846969556</longitude>
+			<latitude>-6.178438049754707</latitude>
+			<altitude>4.80205567374314</altitude>
+			<heading>245.2975502866183</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>111.0989369199342</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0AA47161EE39137DC9EF">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4197248214491,-6.178554592257547,4.707333509060609</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B834FCC73913827E87">
+		<name>Warung Nurnaila</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari</div>]]></description>
+		<LookAt>
+			<longitude>120.4197823281365</longitude>
+			<latitude>-6.178517309627372</latitude>
+			<altitude>4.898037029696942</altitude>
+			<heading>285.9564157628446</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>115.7549226121228</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="08FF1250343913827E92">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4196527179222,-6.178527657497794,4.979930530354735</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF4CF2F56391384935A">
+		<name>Kios Salman</name>
+		<description><![CDATA[<div>Menjual Jajanan ringan dan kebutuhan sehari-hari</div>]]></description>
+		<LookAt>
+			<longitude>120.4198963621917</longitude>
+			<latitude>-6.178064316463211</latitude>
+			<altitude>4.589415552639906</altitude>
+			<heading>313.5543020378497</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>140.0039528574962</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F2C7E6A1A3913849361">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4198832579101,-6.177953748332908,4.884346662307921</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="098BF0ECA43913859C75">
+		<name>Al-Baroqah</name>
+		<description><![CDATA[<div>Menjual parut kelapa dan kebutuhan sehari-hari</div>]]></description>
+		<LookAt>
+			<longitude>120.4199542006495</longitude>
+			<latitude>-6.177795252645531</latitude>
+			<altitude>4.778713052818397</altitude>
+			<heading>276.8597408738396</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>142.3326294427716</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F66FE98053913859C7B">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4199207708393,-6.177768956130334,4.883082566450652</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08EE2241793913873C50">
+		<name>Warung Seribu Bibir</name>
+		<description><![CDATA[<div>Menjual kebutuhan sehari-hari, snack, dan sembako</div>]]></description>
+		<LookAt>
+			<longitude>120.4199636286718</longitude>
+			<latitude>-6.177757187193166</latitude>
+			<altitude>4.717452706910386</altitude>
+			<heading>276.8597361195637</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>254.6236134753781</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0EBB522AF33913873C5B">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4199283628459,-6.177676567005292,4.461496991173963</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08194E7CA139138A56DC">
+		<name>Warung Nur Ainu</name>
+		<description><![CDATA[<div>Menjual Sembako, Kebutuhan Sehari-hari, dan Beras</div>]]></description>
+		<LookAt>
+			<longitude>120.4200046479175</longitude>
+			<latitude>-6.177104523044481</latitude>
+			<altitude>5.282395576412298</altitude>
+			<heading>286.4821908865661</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>100.4211327828853</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0C28E2F60639138A56E4">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4199258145198,-6.177093384739334,5.917727024224957</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B23B1EC7539138EE55C">
+		<name>Warung Fitra</name>
+		<description><![CDATA[<div>Menjual Jajanan Ringan, kebutuhan sehari-hari, dan nasi kuning</div>]]></description>
+		<LookAt>
+			<longitude>120.4198005635227</longitude>
+			<latitude>-6.177107105837621</latitude>
+			<altitude>7.295678591574941</altitude>
+			<heading>280.5870803555352</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>78.08076625598915</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0C485E2BFA39138EE568">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4197257913945,-6.177046694150326,8.071212848759334</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D53E8AD4391D5869B5">
+		<name>Toko dan Bakso Sapri</name>
+		<LookAt>
+			<longitude>120.4193081614255</longitude>
+			<latitude>-6.167524929710223</latitude>
+			<altitude>12.72267847901962</altitude>
+			<heading>358.9999989626986</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>118.0177400488174</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0EF622DDAD391D5869B6">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4193273282616,-6.167522725088734,12.45225934571572</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0247CE59B9391D5B4197">
+		<name>Warung Kiranti</name>
+		<LookAt>
+			<longitude>120.4192208008216</longitude>
+			<latitude>-6.167629363839555</latitude>
+			<altitude>14.07804274300564</altitude>
+			<heading>358.9999991234263</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>183.4830896276799</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="011F8B9DA6391D5B419B">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4191924117579,-6.167607809790523,14.2594005559263</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="088AA743F5391D5FB042">
+		<name>Warung Ibu Sadariah</name>
+		<LookAt>
+			<longitude>120.4191675950152</longitude>
+			<latitude>-6.16757977605697</latitude>
+			<altitude>14.39133080136951</altitude>
+			<heading>358.9999986536261</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>113.4128957296162</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0B58DDB44C391D5FB044">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4190525057852,-6.167578922006444,15.19910958511342</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0130828C1D391D672350">
+		<name>Warung Nanda Aqilah</name>
+		<LookAt>
+			<longitude>120.4192919447487</longitude>
+			<latitude>-6.16768216571277</latitude>
+			<altitude>13.29904327627634</altitude>
+			<heading>358.9999983060737</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>134.9454302084268</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="05CA53C413391D672352">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4192737243713,-6.167622309703461,13.41561806223824</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DF732C7E2391D6E3FA7">
+		<name>Warung Alwi</name>
+		<LookAt>
+			<longitude>120.4193447506814</longitude>
+			<latitude>-6.167635714646007</latitude>
+			<altitude>12.42024140056089</altitude>
+			<heading>358.9999987924295</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>100.2319688057105</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="02DF87ED29391D6E3FAC">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4193444387208,-6.167617945721149,12.37292379673083</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="065AC7B88C391D7D80DB">
+		<name>Warung Arga</name>
+		<LookAt>
+			<longitude>120.4193513494969</longitude>
+			<latitude>-6.168822545471922</latitude>
+			<altitude>12.55365100324957</altitude>
+			<heading>35.71044553270976</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>239.3031739433719</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F7BEE9A31391D7D80DC">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4194222694927,-6.168566640126015,11.2946140389953</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="035A52B8E3391D8FE230">
+		<name>Warung Haji Isa</name>
+		<LookAt>
+			<longitude>120.4195738569906</longitude>
+			<latitude>-6.168781856879729</latitude>
+			<altitude>11.09478871411855</altitude>
+			<heading>359.0001824675607</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>144.4222059130516</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="01E5898B21391D8FE231">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4195991987711,-6.168837519561836,11.08786886669622</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F52257140391D9F4503">
+		<name>Kios Akbar</name>
+		<LookAt>
+			<longitude>120.4199849623378</longitude>
+			<latitude>-6.169990536956671</latitude>
+			<altitude>4.847139283212842</altitude>
+			<heading>359.0003295350661</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>213.7777301236565</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0BAE0224DD391D9F4504">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.420096654131,-6.169992630343126,4.869340920886485</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C7AF4B205391DA13B55">
+		<name>Terasi Udang</name>
+		<LookAt>
+			<longitude>120.4202951311328</longitude>
+			<latitude>-6.170044016829982</latitude>
+			<altitude>4.317765079662408</altitude>
+			<heading>359.0000042694258</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.9999742716581</gx:fovy>
+			<range>232.8590596381765</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="10121E8DF1391DA13B55">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4203941543499,-6.170037818480582,1.279642964828045</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="086168EEFC391DA5DAFF">
+		<name>Warung Hj. Sitti Syamsiah</name>
+		<LookAt>
+			<longitude>120.4202235412392</longitude>
+			<latitude>-6.170124955925018</latitude>
+			<altitude>4.842631237308071</altitude>
+			<heading>347.8518822472712</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>134.5232850024877</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1849CA7610391DA5DAFF">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4201899395769,-6.170133452165884,4.985247756558053</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3B2D04EB391DA93821">
+		<name>Warung Ibu Asniati</name>
+		<LookAt>
+			<longitude>120.4200534567253</longitude>
+			<latitude>-6.170117011978742</latitude>
+			<altitude>5.052551563888386</altitude>
+			<heading>358.9997534785448</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>183.5565162624516</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0140645EBD391DA93823">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4200426242291,-6.170150055303279,4.987325771786004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01A1BFD39C391DAF952E">
+		<name>Warung Annisa</name>
+		<LookAt>
+			<longitude>120.4200945377101</longitude>
+			<latitude>-6.170418202855705</latitude>
+			<altitude>5.239540222074403</altitude>
+			<heading>358.9999988772091</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>115.9434607941148</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0552DF495C391DAF952F">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.420070694287,-6.170404681746437,5.325172044296902</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B03207F33391DBB84DC">
+		<name>Warung Ibu Lina</name>
+		<LookAt>
+			<longitude>120.4198926073661</longitude>
+			<latitude>-6.170609706717217</latitude>
+			<altitude>10.71864726155337</altitude>
+			<heading>358.9999981041398</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>138.7633718517646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F3507BBD4391DBB84DE">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.419844600444,-6.170538810417997,9.591547234029234</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA9196B0F391DBC43CB">
+		<name>Warung Ibu Hasni</name>
+		<LookAt>
+			<longitude>120.419884365618</longitude>
+			<latitude>-6.170596972596385</latitude>
+			<altitude>10.56148246988103</altitude>
+			<heading>358.9999979720515</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>138.9205391530231</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1B10B63970391DBC43CB">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4198336091766,-6.170489964559443,8.628732461133096</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D97D059E4391DD42B59">
+		<name>Warung Ibu Piara</name>
+		<LookAt>
+			<longitude>120.4202521468501</longitude>
+			<latitude>-6.170775638899199</latitude>
+			<altitude>7.302844942895346</altitude>
+			<heading>3.024969328120333</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>206.9595988975925</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0CA1B93590391DD42B5A">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4203469383497,-6.17066435405123,4.620972828860978</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F34F0CB2391DD55175">
+		<name>Warung Kak Mustikayanti</name>
+		<LookAt>
+			<longitude>120.4203432778639</longitude>
+			<latitude>-6.170875032438357</latitude>
+			<altitude>5.560350865689077</altitude>
+			<heading>0.5605990017825082</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>169.1257836482692</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1840F6D046391DD55175">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.420317247928,-6.170861272615313,6.420961371645104</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047402F719391DD8D105">
+		<name>Toko Ibu Nabila</name>
+		<LookAt>
+			<longitude>120.4204842527813</longitude>
+			<latitude>-6.171423787917926</latitude>
+			<altitude>11.37241943778399</altitude>
+			<heading>359.0000570917069</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>147.0584724194305</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="11B0EAE9E9391DD8D105">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4205103967126,-6.171357325715796,10.52453714874316</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED26C2254391DDEB6BB">
+		<name>Warung Ibu Hikmawati</name>
+		<LookAt>
+			<longitude>120.4201970717445</longitude>
+			<latitude>-6.170477375974357</latitude>
+			<altitude>4.969934788870689</altitude>
+			<heading>358.9999990558052</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>152.1624115744453</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="08F5292408391DDEB6BE">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4202239456699,-6.170457578304885,4.443736959028413</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D84E3D830391DE45101">
+		<name>Warung Ibu Nur Ati</name>
+		<LookAt>
+			<longitude>120.4195373126141</longitude>
+			<latitude>-6.169638806826123</latitude>
+			<altitude>12.05637734193001</altitude>
+			<heading>358.9999958839517</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>175.9086733345066</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0087FA25FA39BC0F41D7</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1CEA87C770391DE45101">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>120.4195579141263,-6.169570067479923,12.31766237062566</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02E7DED37539A595DA06">
+		<name>Warung Latif</name>
+		<description><![CDATA[<div>Menjual Kebutuhan sehari-hari dan alat pancing</div>]]></description>
+		<LookAt>
+			<longitude>120.4201098430656</longitude>
+			<latitude>-6.177913193675187</latitude>
+			<altitude>4.351080015493718</altitude>
+			<heading>290.0549935868978</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>80.65125473538501</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<Point>
+			<coordinates>120.4200621793162,-6.178047238573204,3.925059144020795</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6524B05939A596E2CB">
+		<name>Warung Kelontong</name>
+		<description><![CDATA[<div>Menjual Kebutuhan sehari-hari dan snack</div>]]></description>
+		<LookAt>
+			<longitude>120.4201560377444</longitude>
+			<latitude>-6.178059957500715</latitude>
+			<altitude>2.112784979707283</altitude>
+			<heading>290.0549470318826</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35.00000000000001</gx:fovy>
+			<range>83.82270939418049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_20B11C097D39BC0F41D8</styleUrl>
+		<Point>
+			<coordinates>120.4201096477095,-6.178196905772388,3.243057542998469</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
